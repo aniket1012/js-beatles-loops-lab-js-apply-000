@@ -19,5 +19,5 @@
 
 function iLoveTheBeatles(num) {
     var array = [];
-    
+    do()
 }
