@@ -17,6 +17,6 @@
      return array;
   }      
 
-function iLoveTheBeatles(int) {
+function iLoveTheBeatles(num) {
   
 }
