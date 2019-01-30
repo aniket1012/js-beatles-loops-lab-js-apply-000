@@ -19,5 +19,7 @@
 
 function iLoveTheBeatles(num) {
     var array = [];
-    do()
+    do {
+      array.push("iLoveTheBeatles")
+    }
 }
