@@ -18,5 +18,6 @@
   }      
 
 function iLoveTheBeatles(num) {
-  
+    var array = [];
+    
 }
