@@ -12,8 +12,8 @@
     var count = 0;
     while (count < facts.length) {
       array.push(facts +"!!!");
-      count++
+      count++;
     }
-
+     return array;
   }      
 
